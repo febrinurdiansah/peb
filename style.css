@@ -172,7 +172,8 @@ h1{
 .slider img{
     height: 100%;
     width: 100%;
-    object-fit: cover;
+    object-fit: contain;
+    background-color: #000;
 }
 .slider h4{
     position: absolute;
@@ -679,7 +680,7 @@ h1{
 .slider img{
     height: 85%;
     width: 100%;
-    object-fit: cover;
+    object-fit: contain;
 }
 .slider h4{
     position: relative;
